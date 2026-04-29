@@ -12,12 +12,12 @@ Gean Pierre Ayala Andia
 
 ![Movies](docs/2.png)
 
-### 3. Creación de Movie
+### 3. Creación de Genre
 
-![Create](docs/create.png)
+![Create](docs/3.png)
 
-### 4. Gestión de Genres
+### 4. Union con Genre
 
-![Genres](docs/genres.png)
+![Genres](docs/4.png)
 
 ---
